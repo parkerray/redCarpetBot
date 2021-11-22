@@ -1,0 +1,17 @@
+{
+  "name": "redcarpetbot",
+  "version": "1.0.0",
+  "description": "Discord role assigning bot",
+  "main": "bot.js",
+  "author": "Parker Thompson",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "license": "ISC"
+}
